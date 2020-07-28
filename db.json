@@ -23,11 +23,11 @@
 		"name": "",
 		"zipCode": "64295",
 		"lastLogin": "2018-01-15T18:20:42+01:00",
-		"attributId": "",
+		"attributeId": "",
 		"attributeGroup": "GCP",
 		 "attributeType": "Contact",
 		 "attributeKey": "contact_Email",
-		 "attrubuteValue": "tisp_automation+97685@outlook.de"
+		 "attributeValue": "tisp_automation+97685@outlook.de"
 	}
 	
 ]
