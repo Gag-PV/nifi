@@ -1,0 +1,37 @@
+[{
+	"attributeId": "1811107722",
+	"mandantId": "10000287",
+	"gcpid": "2010100002875994120390169593",
+	"attributeGroup": "GCP",
+	"attributeType": "contact",
+	"attributeKey": "contactEmail",
+	"attributeValue": "tisp_automation+97685@outlook.de",
+	"itemName": "",
+	"itemTitle": "",
+	"itemDatatype": "",
+	"creationDate": "2018-01-15T18:19:44+01:00"
+}, {
+	"attributeId": "1811107723",
+	"mandantId": "10000287",
+	"gcpid": "2010100002875994120390169593",
+	"attributeGroup": "GCP",
+	"attributeType": "contact",
+	"attributeKey": "mobilePhoneNumber",
+	"attributeValue": "",
+	"itemName": "",
+	"itemTitle": "",
+	"itemDatatype": "",
+	"creationDate": "2018-01-15T18:19:44+01:00"
+}, {
+	"attributeId": "1811107724",
+	"mandantId": "10000287",
+	"gcpid": "2010100002875994120390169593",
+	"attributeGroup": "GCP",
+	"attributeType": "contact",
+	"attributeKey": "phoneNumber",
+	"attributeValue": "",
+	"itemName": "",
+	"itemTitle": "",
+	"itemDatatype": "",
+	"creationDate": "2018-01-15T18:19:44+01:00"
+}]
