@@ -1,0 +1,23 @@
+[{
+	"gcpid": "2010100002875994120390169593",
+	"mandantId": "10000287",
+	"dienstId": "6X3P530N",
+	"dienstName": "STAR_DE",
+	"autoRegistration": "0",
+	"systemDienst": "0",
+	"ccmDienst": "0",
+	"registrationDate": "2018-01-15T18:19:44+01:00",
+	"deregistrationDate": "",
+	"agreed": "true"
+}, {
+	"gcpid": "2010100002879365664074431755",
+	"mandantId": "10000287",
+	"dienstId": "6X3P530N",
+	"dienstName": "STAR_DE",
+	"autoRegistration": "0",
+	"systemDienst": "0",
+	"ccmDienst": "0",
+	"registrationDate": "2018-01-17T21:22:11+01:00",
+	"deregistrationDate": "",
+	"agreed": "true"
+}]
